@@ -220,5 +220,5 @@ pip install -r requirements.txt
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Author
-Special Topics in Bioinformatics — Assignment 06
-# scRNA-seq-pipeline
+Abid Hussain-Special Topics in Bioinformatics 
+
